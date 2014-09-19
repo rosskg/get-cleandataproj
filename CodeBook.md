@@ -1,4 +1,4 @@
-The attached R script (run_analysis.R) performs the following to clean up the data:
+The attached R script (run.analysis.R) performs the following to clean up the data:
 
     1. Merges the training and test sets to create one data set, namely
 
